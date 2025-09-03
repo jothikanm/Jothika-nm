@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Learning</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="                    
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="                      
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h1>Welcome to Smart Learning</h1>
+            <p>Empowering learners with accessible education.</p>
+        </section>
+        <section id="courses">
+            <h2>Courses</h2>
+            <div class="course-catalog">
+                <div class="course-card" data-course-id="1">
+                    <h3>Course 1: Introduction to HTML</h3>
+                    <p>Learn the basics of HTML and build your first web page.</p>
+                </div>
+                <div class="course-card" data-course-id="2">
+                    <h3>Course 2: CSS Fundamentals</h3>
+                    <p>Master the basics of CSS and style your web pages.</p>
+                </div>
+                <div class="course-card" data-course-id="3">
+                    <h3>Course 3: JavaScript Basics</h3>
+                    <p>Learn the basics of JavaScript and add interactivity to your web pages.</p>
+                </div>
+            </div>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Smart Learning is dedicated to providing high-quality online education.</p>
+        </section>
+        <section id="quiz">
+            <h2>Quiz</h2>
+            <div class="quiz-questions">
+                <div class="quiz-question" data-correct-answer="A">
+                    <p>What is the capital of France?</p
