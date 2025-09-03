@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartLearn</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="                    
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="                      
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h1>Welcome to SmartLearn</h1>
+            <p>Empowering learners with accessible education.</p>
+        </section>
+        <section id="courses">
+            <h2>Courses</h2>
+            <ul>
+                <li>Course 1: Introduction to HTML</li>
+                <li>Course 2: CSS Fundamentals</li>
+                <li>Course 3: JavaScript Basics</li>
+            </ul>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>SmartLearn is dedicated to providing high-quality online education.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 SmartLearn</p>
+    </footer>
+</body>
+</html>
